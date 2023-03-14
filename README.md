@@ -6,7 +6,7 @@ Semi-automatic methodology
 [Running](#Running)
 
 # Software requirements:
-3D Slcier and Python.
+3D Slicer and Python.
 # Semi-automatic methodology:
 This file provided a UI to simplifier the medical image processing during design of prosthsis. In this Userinterface, with simple click, reference points can be exported both in .csv file which could work well in a CAD environment, and in .json file which could be reloaded in 3D slicer.
 # Running
